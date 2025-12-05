@@ -14,9 +14,9 @@ However, mispriced hotels — either too high or too low — reduce visibility, 
 
 This project helps answer:
 
-✔ Which factors influence hotel pricing in Amsterdam?  
-✔ Which hotels appear overpriced or underpriced compared to their peers?  
-✔ How can pricing be improved to increase competitiveness and fairness?
+- Which factors influence hotel pricing in Amsterdam?  
+- Which hotels appear overpriced or underpriced compared to their peers?  
+- How can pricing be improved to increase competitiveness and fairness?
 
 ## Data Source
 
@@ -78,7 +78,7 @@ They dominate the supply and are spread widely across the entire city.
 **4. Review score better reflects real value**  
 Some 0★ hotels score as highly as 5★  
 1★ sometimes outrank 2★
-➡ Review score is essential for validating price.
+-> Review score is essential for validating price.
 
 **5. Review count signals trust & popularity**  
 High-trust hotels cluster predictably in the mid-market pricing band.
